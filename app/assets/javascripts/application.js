@@ -15,3 +15,32 @@
 //= require turbolinks
 //= require_tree .
 //= require bootstrap-sprockets
+
+//= require jquery-1.11.0
+//= require jquery-1.11.0.min
+
+//= require bootstrap
+//= require bootstrap.min
+//= require npm
+
+//= require jquery.backstretch
+//= require jquery.backstretch.min
+
+//= require owl.carousel
+//= require owl.carousel.min
+
+//= require jquery.magnific-popup
+//= require jquery.magnific-popup.min
+
+//= require jquery.simple-text-rotator
+//= require jquery.simple-text-rotator.min
+
+//= require jquery.waypoints
+//= require jquery.countTo
+
+//= require wow
+//= require wow.min
+
+//= require smoothscroll
+//= require jquery.fitvids
+//= require custom

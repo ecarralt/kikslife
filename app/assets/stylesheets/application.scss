@@ -1,2 +1,22 @@
-@import "bootstrap-sprockets";
-@import "bootstrap";
+// @import "bootstrap-sprockets";
+// @import "bootstrap";
+
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+//files below are cited in order in the hml file, in addition to font-awesome
+@import "bootstrap.min";
+@import "owl.theme";
+@import "owl.carousel";
+@import "magnific-popup";
+@import "simpletextrotator";
+@import "animate";
+@import "style";
+
+
+//files below are extra in the app assets from template
+@import "bootstrap-theme";
+@import "bootstrap-theme.min";
+@import "bootstrap"
+
+// @import "prettify.css”;
