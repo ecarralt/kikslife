@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
 
-  root 'datas#kikslife', as: :welcome
+  root 'details#kikslife', as: :welcome
 
 
 
